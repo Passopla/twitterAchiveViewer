@@ -1,4 +1,4 @@
-# X/Tweet Archive Viewer
+# X/Twitter Archive Viewer
 
 This project is designed to help you explore your Twitter history by uploading your tweets.js file from your Downloaded X/Twitter archive folder. With the app, you can view your past tweets and even hide retweets and replies for a more personalized experience.
 
