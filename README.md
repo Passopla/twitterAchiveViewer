@@ -6,6 +6,9 @@ I was looking for a way to read my tweets especially the thoughts I tweeted to r
 
 The tech stack is mostly made up of libraries I kept seeing people on Instagram recommended. Basically the newest latest craze at the time, so this is basically a test project for trying them out.
 
+<img width="1879" height="969" alt="image" src="https://github.com/user-attachments/assets/573de441-50fa-4ef3-b017-21ac990c72f5" />
+
+
 ## Tech Stack
 
 This project is built with the following technologies:
