@@ -6,6 +6,14 @@ I was looking for a way to read my tweets especially the thoughts I tweeted to r
 
 The tech stack is mostly made up of libraries I kept seeing people on Instagram recommended. Basically the newest latest craze at the time, so this is basically a test project for trying them out.
 
+1. Simply request your X/Twitter data by navigate=ing to your X settings menu, select "More" > "Settings and privacy" > "Your account" > "Download an archive of your data".
+- NOTE: The data can take a while to generate the zip folder for you to download, you'll get an X/Twitter notification when it's ready.
+2. After Unzipping the archive.
+3. Open the file using the web app by clicking 'Choose file' button.
+4. Navigate to the unzipped archive folder > data and there you will find the tweets.js file to open.
+5. Click 'Next' in the webapp and your first random tweet will be displayed.
+- NOTE: Twitter Archive Viewer does not store any of your tweet data on the server.
+
 <img width="1879" height="969" alt="image" src="https://github.com/user-attachments/assets/573de441-50fa-4ef3-b017-21ac990c72f5" />
 
 
