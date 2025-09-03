@@ -1,10 +1,23 @@
-# My V0 Project - Tweet Time Machine
+# X/Twitter Archive Viewer
 
 This project is designed to help you explore your Twitter history by uploading your tweets.js file from your Downloaded X/Twitter archive folder. With the app, you can view your past tweets and even hide retweets and replies for a more personalized experience.
 
 I was looking for a way to read my tweets especially the thoughts I tweeted to remember. X only offers a vertical timeline which you have to endlessly scroll down to view posts so I wanted an alternative that takes away the labour of endless scrolling. My solution was between two options, a page of cards or a random tweet viewer. I opted for the latter for its element of surprise, a random tweet is fetched from your tweets.js file and displayed, a thought you probably forgot you posted.
 
 The tech stack is mostly made up of libraries I kept seeing people on Instagram recommended. Basically the newest latest craze at the time, so this is basically a test project for trying them out.
+
+1. Simply request your X/Twitter data by navigate=ing to your X settings menu, select "More" > "Settings and privacy" > "Your account" > "Download an archive of your data".
+- NOTE: The data can take a while to generate the zip folder for you to download, you'll get an X/Twitter notification when it's ready.
+2. After Unzipping the archive.
+3. Open the file using the web app by clicking 'Choose file' button.
+4. Navigate to the unzipped archive folder > data and there you will find the tweets.js file to open.
+5. Click 'Next' in the webapp and your first random tweet will be displayed.
+- NOTE: Twitter Archive Viewer does not store any of your tweet data on the server.
+
+  Vercel app: https://twitter-achive-viewer.vercel.app
+
+<img width="1879" height="969" alt="image" src="https://github.com/user-attachments/assets/573de441-50fa-4ef3-b017-21ac990c72f5" />
+
 
 ## Tech Stack
 
@@ -64,6 +77,8 @@ The project includes several npm scripts for common tasks:
 - `pnpm run build`: Builds the application for production.
 - `pnpm run preview`: Starts the production server to preview the build.
 - `pnpm run check`: Runs the Svelte checker to find issues.
+
+'npm' in place of pnpm works too
 
 ## Project Structure
 
