@@ -65,6 +65,8 @@ The project includes several npm scripts for common tasks:
 - `pnpm run preview`: Starts the production server to preview the build.
 - `pnpm run check`: Runs the Svelte checker to find issues.
 
+'npm' in place of pnpm works too
+
 ## Project Structure
 
 The project follows a typical SvelteKit structure:
