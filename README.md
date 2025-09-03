@@ -47,7 +47,7 @@ To get started with the project, you'll need to have Node.js and pnpm installed 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Passopla/redesigned-memory.git
+    git clone https://github.com/Passopla/twitterAchiveViewer.git
     cd redesigned-memory
     ```
 
